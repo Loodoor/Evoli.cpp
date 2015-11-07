@@ -5,9 +5,10 @@
 
 using namespace std;
 
-/* Evoli.cpp
+/* G
  *  A program that reads and writes itself :)
- * zM - 11/07/2015
+ *  zM - 11/07/2015
+ *    E
  */
 
 int main(int argc, char** argv)
