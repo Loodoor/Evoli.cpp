@@ -7,9 +7,7 @@ using namespace std;
 
 /* Evoli.cpp
  *  A program that reads and writes itself :)
- *
- * Wanna try ? Just run this
- *  g++ evoli.cpp -Wall -o evoli && echo -ne "\x13\x37Un Évoli sauvage apparaît \!" >> evoli && echo -n "n°1\t" && ./evoli; echo -n "n°2\t" && ./evoli
+ * zM - 11/07/2015
  */
 
 int main(int argc, char** argv)
